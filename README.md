@@ -14,7 +14,7 @@ In today’s competitive business landscape, retaining customers is vital for lo
 
 The main objectives of this project were to:
 
-**Visualize and Analyze Customer Data:** Explore customer data at different levels, including demographic, geographic, payment and account information, and services.
+***Visualize and Analyze Customer Data:*** Explore customer data at different levels, including demographic, geographic, payment and account information, and services.
 
 **Study Churner Profiles:** Identify characteristics of customers who have churned to help in designing targeted marketing campaigns.
 
