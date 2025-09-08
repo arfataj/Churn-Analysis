@@ -67,6 +67,7 @@ This project follows a multi-step process, from data extraction to visualization
 
 <img width="1160" height="650" alt="Dashboard_Screenshot_1" src="https://github.com/user-attachments/assets/b52bece5-d0bf-49f5-9358-4b7eff6e52cf" />
 
+
 <img width="1162" height="651" alt="Dashboard_Screenshot_2" src="https://github.com/user-attachments/assets/8b0c3f68-3304-4085-b9e8-10b050e7457d" />
 
 
